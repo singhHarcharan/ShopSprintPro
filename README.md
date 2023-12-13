@@ -1,1 +1,1 @@
-# supermarket-billing-system
+# ShopSprintPro
